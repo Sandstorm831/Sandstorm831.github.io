@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: Blogs
 subtitle:
 
 content:
@@ -20,7 +20,7 @@ content:
     tag: ''
     category: ''
     publication_type: ''
-    author: ''
+    author: admin
     exclude_featured: false
     exclude_future: false
     exclude_past: false

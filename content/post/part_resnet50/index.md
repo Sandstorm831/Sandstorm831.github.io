@@ -1,5 +1,5 @@
 ---
-title: 'Optimizers: diving deep into Neural Networks'
+title: 'ResNet-50'
 #subtitle: Waiting for neural networks to train is always the most annoying time and even more ennoying  when the datasets are large. Indeed, but changing #the optimization algorithm may bring a significant change in speed as well as accuracu for the deep learning model training.
 # Summary for listings and search engines
 #summary: 
@@ -35,8 +35,6 @@ tags:
 
 
 ---
-Waiting for neural networks to train is always the most annoying time and even more ennoying  when the datasets are large. Indeed, but changing the optimization algorithm may bring a significant change in speed as well as accuracu for the deep learning model training.
+ResNet-50 is a pretrained convolutional neural network that is trained on over a million images from the ImageNet database. It has 177 layers with 192 connections. It can classify images in 1000 categorical outputs. It has an input image size of 224 x 224 x 3.
 
-Read more here](https://medium.com/vlgiitr/optimizer-diving-into-deep-neural-networks-94a6ee28f7c5) 
-
-
+[Read more here](https://gargrohan138.medium.com/resnet-50-810cf6f02799) 
