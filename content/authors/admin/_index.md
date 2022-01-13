@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: rohan_g@me.iitr.ac.in
+  link: malto:rohan_g@me.iitr.ac.in
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ROHAN94716622?t=GNIxrmOFSGhutBelBX7uUg&s=08
@@ -67,8 +67,8 @@ email: "rohan_g@me.iitr.ac.in"
 highlight_name: true
 ---
 
-I'm an engineering undergraduate student at Indian Institute of Technology Roorkee enthusiastic about Deep learning and its progress within past few years. I follow never ending advancements in technology passionately and their impacts on human society. I am keen on Cryptography and trying to explore in the intersection of Deep learning and Crytpography.
+I’m an engineering undergraduate student at the Indian Institute of Technology Roorkee, enthusiastic about Deep learning and its progress within the past few years. I follow never-ending advancements in technology passionately and their impacts on human society. I am keen on Cryptography and trying to explore the intersection of Deep Learning and Cryptography.
 
-At IIT Roorkee, I am a member of a Deep Learning-centric discussion group named the [Vision and Language Group](https://vlgiitr.github.io/). As a person, I adore discussing various random topics and love to play hockey and football. I used to relax myself by listening to music and roaming inside the campus. I am in the Official Hockey team of IIT Roorkee under National Sports Organization and used to follow the sport avidly. I like to talk to new people and feel free to connect for discussing any random topic.
+At IIT Roorkee, I am a member of a Deep Learning-centric discussion group named the Vision and Language Group. As a person, I adore discussing various random topics and love to play hockey and football. I used to relax by listening to music and roaming inside the campus. I am in the Official Hockey team of IIT Roorkee under National Sports Organization and used to follow the sport avidly. I like to talk to new people and feel free to connect to discuss any random topic.
 
 

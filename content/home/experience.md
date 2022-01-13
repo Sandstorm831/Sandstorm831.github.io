@@ -30,7 +30,7 @@ experience:
     location: Virtual
     date_start: '2021-10-28'
     date_end: '2021-10-28'
-    description: A comprehensive workshop spannig over all the very basic topics of NLP to covering the recent developments with a hands on expereince.
+    description: A comprehensive workshop, spanning over all the essential topics of NLP to covering the recent developments with a hands-on experience.
 
     
   - title: Participant
@@ -40,7 +40,7 @@ experience:
     location: Virtual
     date_start: '2021-04-08'
     date_end: '2021-04-08'
-    description: A 2 day workshop focussed over deep learning's hands on expereice starting from basics of Machine learning, Deep learning to deploying the model.
+    description: A 2-day workshop focussed on deep learning's hands-on experience starting from basics of Machine learning, Deep learning to deploying the model.
         
 
 
