@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: malto:rohan_g@me.iitr.ac.in
+  link: mailto:rohan_g@me.iitr.ac.in
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ROHAN94716622?t=GNIxrmOFSGhutBelBX7uUg&s=08
