@@ -21,6 +21,7 @@ interests:
 - Deep Learning
 - Computer vision
 - Cryptography
+- Mathematics
 
 # Education to show in About widget
 education:
