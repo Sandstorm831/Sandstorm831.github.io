@@ -1,5 +1,5 @@
 ---
-title: 'Optimizers: diving deep into Neural Networks'
+title: 'Password Cracking'
 #subtitle: Waiting for neural networks to train is always the most annoying time and even more ennoying  when the datasets are large. Indeed, but changing #the optimization algorithm may bring a significant change in speed as well as accuracu for the deep learning model training.
 # Summary for listings and search engines
 #summary: 
@@ -7,7 +7,7 @@ title: 'Optimizers: diving deep into Neural Networks'
 projects: []
 
 # Date published
-date: "2020-06-17T00:00:00Z"
+date: "2020-05-30T00:00:00Z"
 
 # Date updated
 #lastmod: "2020-12-13T00:00:00Z"
@@ -30,13 +30,15 @@ authors:
 - admin
 
 tags:
-- Academic
 - Deep learning
+- Generative Adversarial Network 
+- Long Short Term Memory
+- Password Cracking
+- Probabilistic Context-Free Grammar
 
 
 ---
-Waiting for neural networks to train is always the most annoying time and even more annoying when the datasets are large. Indeed, changing the optimization algorithm may bring a significant change in speed as well as accuracy for the deep learning model training.
-
-[Read more here](https://medium.com/vlgiitr/optimizer-diving-into-deep-neural-networks-94a6ee28f7c5) 
+There are several algorithms that decrypt the hashes of the passwords obtained from other password databases leaks. These algorithms generate passwords, hashes them using the encryption algorithm, and then compare the hash with the hashes present in the database; if the hash matches, Bingo! We got the password corresponding to that hash; otherwise, keep generating and comparing passwords.
 
 
+[Read more here](https://gargrohan138.medium.com/password-cracking-1b14e0844404) 

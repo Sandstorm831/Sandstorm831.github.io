@@ -1,5 +1,5 @@
 ---
-title: Programming Problems
+title: Programming Palindrome
 summary: A repository of various competitive programming problems.
 tags:
 - Other
