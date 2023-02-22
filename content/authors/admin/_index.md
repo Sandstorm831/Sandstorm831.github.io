@@ -18,10 +18,10 @@ bio: Passionate about Deep learning and Computer Vision.
 
 # Interests to show in About widget
 interests:
+- Mathematics
+- Cryptography
 - Deep Learning
 - Computer vision
-- Cryptography
-- Mathematics
 
 # Education to show in About widget
 education:
@@ -68,8 +68,10 @@ email: "rohan_g@me.iitr.ac.in"
 highlight_name: true
 ---
 
-I’m an engineering undergraduate student at the Indian Institute of Technology Roorkee, enthusiastic about Deep learning and its progress within the past few years. I follow never-ending advancements in technology passionately and their impacts on human society. I am keen on Cryptography and trying to explore the intersection of Deep Learning and Cryptography.
+Thanks for visiting my portfolio page! I'm an undergraduate mathematician with a passion for research, as well as a strong interest in the fields of deep learning and cryptography.
 
-At IIT Roorkee, I am a member of a Deep Learning-centric discussion group named the Vision and Language Group. As a person, I adore discussing various random topics and love to play hockey and football. I used to relax by listening to music and roaming inside the campus. I am in the Official Hockey team of IIT Roorkee under National Sports Organization and used to follow the sport avidly. I like to talk to new people and feel free to connect to discuss any random topic.
+I've always been captivated by the brilliance and beauty of mathematics. My enthusiasm for mathematics has only grown over the years, and I've continued to study the topic both formally and on my own. I have a strong desire to use research to advance in mathematics today.
 
+I am drawn to the subjects of deep learning and cryptography in addition to mathematics. I find it fascinating how these fields integrate computer science and mathematical theory to address challenging issues.I believe that crossover of deep learning and cryptography have tremendous potential to transform the world we live in, and I am eager to contribute to these fields in any way I can.
 
+I participate in the Vision and Language Group at IIT Roorkee, a discussion group that focuses on deep learning. As a person, I enjoy talking about a wide range of unrelated subjects and enjoy playing football and hockey. I used to wander around the campus while listening to music to unwind. I used to be an avid hockey fan and currently play for the IIT Roorkee official hockey team in the National Sports Organization. I enjoy conversing with new people and am open to connecting to talk about any unrelated subject.
