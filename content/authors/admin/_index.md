@@ -68,7 +68,7 @@ email: "rohan_g@me.iitr.ac.in"
 highlight_name: true
 ---
 
-Thanks for visiting my portfolio page! I'm an undergraduate mathematician with a passion for research, as well as a strong interest in the fields of deep learning and cryptography.
+Thanks for visiting my portfolio page! I'm an undergraduate mathematician with a passion for research, as well as a strong interest in the fields of mathematics and cryptography.
 
 I've always been captivated by the brilliance and beauty of mathematics. My enthusiasm for mathematics has only grown over the years, and I've continued to study the topic both formally and on my own. I have a strong desire to use research to advance in mathematics today.
 
