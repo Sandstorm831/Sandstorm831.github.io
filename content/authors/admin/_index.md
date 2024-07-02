@@ -18,9 +18,10 @@ bio: Passionate about Deep learning and Computer Vision.
 
 # Interests to show in About widget
 interests:
-- Programming
 - Mathematics
-- Finance
+- Cryptography
+- Deep Learning
+- Computer vision
 
 # Education to show in About widget
 education:

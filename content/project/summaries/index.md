@@ -2,7 +2,7 @@
 title: Paper-Summaries
 summary: Summaries of a papers published at Deep Learning Conferences
 tags:
-- Deep Learning
+- Other
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
